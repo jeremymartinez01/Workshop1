@@ -1,0 +1,2 @@
+src/main/java/Checks.java:55:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/Checks.java:58:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
